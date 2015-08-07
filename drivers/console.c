@@ -101,6 +101,6 @@ void console_write_color(char *cstr, real_color_t back, real_color_t fore)
 {
 	while (*cstr)
 	{
-		console_putc_color(*cstr, back, fore);
+		console_putc_color(*cstr++, back, fore);
 	}
 }
