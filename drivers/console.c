@@ -1,3 +1,5 @@
+#include "../include/console.h"
+
 static uint16_t *video_memory = (uint16_t *)0xB8000;
 
 static uint8_t cursor_x = 0;
