@@ -1,7 +1,7 @@
 #ifndef INCLUDE_CONDOLE_H_
 #define INCLUDE_CONDOLE_H_
 
-#include "../init/types.h"
+#include "types.h"
 
 typedef
 enum real_color

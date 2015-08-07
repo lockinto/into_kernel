@@ -1,7 +1,7 @@
 #ifndef INCLUDE_COMMON_H_
 #define INCLUDE_COMMON_H_
 
-#include "../init/types.h"
+#include "types.h"
 
 void outb(uint16_t port, uint8_t value);
 
