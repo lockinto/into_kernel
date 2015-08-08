@@ -1,3 +1,9 @@
+/* 
+* @Author: into9
+* @Date:   2015-08-07 14:19:15
+* @Last Modified by:   into9
+* @Last Modified time: 2015-08-08 11:09:54
+*/
 #include "string.h"
 
 //复制函数

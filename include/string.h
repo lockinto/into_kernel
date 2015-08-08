@@ -1,3 +1,9 @@
+/*
+* @Author: into9
+* @Date:   2015-08-07 14:11:17
+* @Last Modified by:   into9
+* @Last Modified time: 2015-08-08 11:48:15
+*/
 #ifndef INCLUDE_STRING_H_
 #define INCLUDE_STRING_H_
 

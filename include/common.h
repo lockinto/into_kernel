@@ -1,3 +1,10 @@
+/*
+* @Author: into9
+* @Date:   2015-08-07 10:46:01
+* @Last Modified by:   into9
+* @Last Modified time: 2015-08-08 11:48:36
+*/
+
 #ifndef INCLUDE_COMMON_H_
 #define INCLUDE_COMMON_H_
 

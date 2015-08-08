@@ -1,3 +1,9 @@
+/* 
+* @Author: into9
+* @Date:   2015-08-07 11:22:42
+* @Last Modified by:   into9
+* @Last Modified time: 2015-08-08 11:09:52
+*/
 #include "../include/console.h"
 
 static uint16_t *video_memory = (uint16_t *)0xB8000;
